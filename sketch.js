@@ -68,6 +68,4 @@ function draw() {
         bounce2(box,rect4);
      }
 
-     console.log(box.x - rect3.x);
-
 }
